@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 500px;
+    height: 700px;
+    border: 1px solid #111827;
+    background-color: #111827;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 20px;
+    margin-left: 40%;
+    margin-top: 50px;
+    
+}
+.Header{
+    color: white;
+    font-size: 30px;
+    font-weight: 200px;
+    line-height: normal;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px; 
+}
+.form{
+    color: #9CA3AF;
+    margin-left: 75px;
+    font-size: 20px;
+    box-shadow: 0px 0px 10px 0px #111827;
+}
+label{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 15px; 
+}
+input{
+    width: 350px;
+    height: 60px;
+    font-size: 20px;
+    color: white;
+    font-style: 400px;
+    border: 1px solid #9CA3AF;
+    background-color: #111827;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+a{
+    color: white;
+    font-size: 17px;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    margin-left: 17rem;
+    display: block;
+}
+.Sign-in{
+    color: black;
+    background-color: #A78BFA;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    font-family: 'Roboto', sans-serif;
+    width: 350px;
+    height: 60px;
+    border: 1px solid #9CA3AF;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 75px;
+    cursor: pointer;
+}
+.text{
+    color: #9CA3AF;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 90px;
+    margin-bottom: 10x;
+    letter-spacing: 1px;
+}
+svg{
+    width: 40px;
+    height: 40px;
+    flex-shrink: 0;
+    margin-top: 30px;
+    cursor: pointer;
+}
+.icon1{
+    margin-left: 160px;
+}
+.icon2{
+    margin-left: 30px;
+}
+.icon3{
+    margin-left: 30px;
+}
+span{
+    color: white;
+    font-size: 20px;
+    font-weight: 600px;
+    cursor: pointer;
+}
+.text1{
+    color: #9CA3AF;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-bottom: 10x;
+    letter-spacing: 1px;
+}
